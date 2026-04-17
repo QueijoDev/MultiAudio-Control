@@ -8,6 +8,12 @@ Fiz esse app em PyQt6 pra facilitar a vida. Ele lista suas placas de áudio fís
 
 ![Interface do MultiAudio](assets/Interface.png)
 
+## 📥 Download rápido (Apenas baixar e usar)
+
+Se você não quer compilar ou só quer testar direto, vá na seção **[Releases](../../releases/latest)** (no painel da direita do repositório) e baixe o aplicativo `MultiAudioControl` pronto.
+
+Basta dar permissão de execução (`chmod +x MultiAudioControl`) e rodar. Ele é portátil.
+
 ## Como a mágica acontece (por baixo dos panos)
 
 Quando você clica em "Ativar", o script basicamente executa:
